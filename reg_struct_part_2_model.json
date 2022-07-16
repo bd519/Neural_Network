@@ -1,0 +1,1 @@
+{"input_size": 13, "nb_epoch": 1000, "layer_sizes": [70, 90, 90], "nb_overfitting_epoch_threshold": 30, "scaler_x": "scaler_x.save", "scaler_y": "scaler_y.save", "learning_rate": 0.025, "batch_size": 128}

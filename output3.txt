@@ -1,0 +1,72 @@
+Score, 0.23249995708465576,Layer Sizes, [13],Learning Rate, 0.1, Batch Size, 32
+Score, 0.26872849464416504,Layer Sizes, [13],Learning Rate, 0.075, Batch Size, 32
+Score, 0.22144077718257904,Layer Sizes, [13],Learning Rate, 0.05, Batch Size, 32
+Score, 0.22817254066467285,Layer Sizes, [13],Learning Rate, 0.025, Batch Size, 32
+Score, 0.22163842618465424,Layer Sizes, [13],Learning Rate, 0.01, Batch Size, 32
+Score, 0.2411293387413025,Layer Sizes, [13],Learning Rate, 0.1, Batch Size, 64
+Score, 0.2140783816576004,Layer Sizes, [13],Learning Rate, 0.075, Batch Size, 64
+Score, 0.228158101439476,Layer Sizes, [13],Learning Rate, 0.05, Batch Size, 64
+Score, 0.222135990858078,Layer Sizes, [13],Learning Rate, 0.025, Batch Size, 64
+Score, 0.21989212930202484,Layer Sizes, [13],Learning Rate, 0.01, Batch Size, 64
+Score, 0.21992836892604828,Layer Sizes, [13],Learning Rate, 0.1, Batch Size, 128
+Score, 0.22271646559238434,Layer Sizes, [13],Learning Rate, 0.075, Batch Size, 128
+Score, 0.2254205048084259,Layer Sizes, [13],Learning Rate, 0.05, Batch Size, 128
+Score, 0.2292574644088745,Layer Sizes, [13],Learning Rate, 0.025, Batch Size, 128
+Score, 0.2344890981912613,Layer Sizes, [13],Learning Rate, 0.01, Batch Size, 128
+Score, 0.22580654919147491,Layer Sizes, [10],Learning Rate, 0.075, Batch Size, 64
+Score, 0.2350693792104721,Layer Sizes, [20],Learning Rate, 0.075, Batch Size, 64
+Score, 0.2679675817489624,Layer Sizes, [30],Learning Rate, 0.075, Batch Size, 64
+Score, 0.23105615377426147,Layer Sizes, [40],Learning Rate, 0.075, Batch Size, 64
+Score, 0.3243637681007385,Layer Sizes, [50],Learning Rate, 0.075, Batch Size, 64
+Score, 0.21093608438968658,Layer Sizes, [60],Learning Rate, 0.075, Batch Size, 64
+Score, 0.2281426191329956,Layer Sizes, [70],Learning Rate, 0.075, Batch Size, 64
+Score, 0.2350737601518631,Layer Sizes, [80],Learning Rate, 0.075, Batch Size, 64
+Score, 0.22530001401901245,Layer Sizes, [90],Learning Rate, 0.075, Batch Size, 64
+Score, 0.2359359860420227,Layer Sizes, [100],Learning Rate, 0.075, Batch Size, 64
+Score, 0.23714059591293335,Layer Sizes, [60, 10],Learning Rate, 0.075, Batch Size, 64
+Score, 0.22652481496334076,Layer Sizes, [60, 20],Learning Rate, 0.075, Batch Size, 64
+Score, 0.2166665941476822,Layer Sizes, [60, 30],Learning Rate, 0.075, Batch Size, 64
+Score, 0.20561860501766205,Layer Sizes, [60, 40],Learning Rate, 0.075, Batch Size, 64
+Score, 0.20801830291748047,Layer Sizes, [60, 50],Learning Rate, 0.075, Batch Size, 64
+Score, 0.2149083912372589,Layer Sizes, [60, 60],Learning Rate, 0.075, Batch Size, 64
+Score, 0.26424136757850647,Layer Sizes, [60, 70],Learning Rate, 0.075, Batch Size, 64
+Score, 0.20929621160030365,Layer Sizes, [60, 80],Learning Rate, 0.075, Batch Size, 64
+Score, 0.21181513369083405,Layer Sizes, [60, 90],Learning Rate, 0.075, Batch Size, 64
+Score, 0.24336788058280945,Layer Sizes, [60, 100],Learning Rate, 0.075, Batch Size, 64
+Score, 0.21097920835018158,Layer Sizes, [60, 40, 10],Learning Rate, 0.075, Batch Size, 64
+Score, 0.20205937325954437,Layer Sizes, [60, 40, 20],Learning Rate, 0.075, Batch Size, 64
+Score, 0.2046985775232315,Layer Sizes, [60, 40, 30],Learning Rate, 0.075, Batch Size, 64
+Score, 0.20145240426063538,Layer Sizes, [60, 40, 40],Learning Rate, 0.075, Batch Size, 64
+Score, 0.1986331045627594,Layer Sizes, [60, 40, 50],Learning Rate, 0.075, Batch Size, 64
+Score, 0.2132803350687027,Layer Sizes, [60, 40, 60],Learning Rate, 0.075, Batch Size, 64
+Score, 0.2298596352338791,Layer Sizes, [60, 40, 70],Learning Rate, 0.075, Batch Size, 64
+Score, 0.21638350188732147,Layer Sizes, [60, 40, 80],Learning Rate, 0.075, Batch Size, 64
+Score, 0.20268428325653076,Layer Sizes, [60, 40, 90],Learning Rate, 0.075, Batch Size, 64
+Score, 0.22801227867603302,Layer Sizes, [60, 40, 100],Learning Rate, 0.075, Batch Size, 64
+Score, 0.22316956520080566,Layer Sizes, [60, 40, 50],Learning Rate, 0.1, Batch Size, 32
+Score, 0.20569340884685516,Layer Sizes, [60, 40, 50],Learning Rate, 0.075, Batch Size, 32
+Score, 0.21434372663497925,Layer Sizes, [60, 40, 50],Learning Rate, 0.05, Batch Size, 32
+Score, 0.19584476947784424,Layer Sizes, [60, 40, 50],Learning Rate, 0.025, Batch Size, 32
+Score, 0.19848568737506866,Layer Sizes, [60, 40, 50],Learning Rate, 0.01, Batch Size, 32
+Score, 0.26983749866485596,Layer Sizes, [60, 40, 50],Learning Rate, 0.1, Batch Size, 64
+Score, 0.22573889791965485,Layer Sizes, [60, 40, 50],Learning Rate, 0.075, Batch Size, 64
+Score, 0.20941251516342163,Layer Sizes, [60, 40, 50],Learning Rate, 0.05, Batch Size, 64
+Score, 0.2019364833831787,Layer Sizes, [60, 40, 50],Learning Rate, 0.025, Batch Size, 64
+Score, 0.21092407405376434,Layer Sizes, [60, 40, 50],Learning Rate, 0.01, Batch Size, 64
+Score, 0.21198594570159912,Layer Sizes, [60, 40, 50],Learning Rate, 0.1, Batch Size, 128
+Score, 0.2051200419664383,Layer Sizes, [60, 40, 50],Learning Rate, 0.075, Batch Size, 128
+Score, 0.23948116600513458,Layer Sizes, [60, 40, 50],Learning Rate, 0.05, Batch Size, 128
+Score, 0.20574381947517395,Layer Sizes, [60, 40, 50],Learning Rate, 0.025, Batch Size, 128
+Score, 0.20865154266357422,Layer Sizes, [60, 40, 50],Learning Rate, 0.01, Batch Size, 128
+
+Regressor error: [[51970.83285319]]
+
+
+Regressor error: 51970.8373609662
+
+
+Regressor error: 0.20234203338623047
+
+
+Saved model in part2_model.pickle
+
